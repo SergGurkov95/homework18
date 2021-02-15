@@ -1,0 +1,17 @@
+{
+  "engine": {
+    "volume": 2.5,
+    "compressionRation": "11.8:1",
+    "rpm": 6600
+  },
+  "model": "Camry",
+  "maxSpeed": {
+    "unit": "km\/h",
+    "value": 220
+  },
+  "brand": "Toyota",
+  "colors": [
+    "Red"
+  ],
+  "seatingCapacity": 5
+}
